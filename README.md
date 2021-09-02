@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 ## I'm a React.js Developer and also the Director of Service Projects of Rotaract Club of NSEC
 
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
+
 - 🔭 I’m currently working on React.js, Python, SQL
 - 🌱 I’m currently learning OS, Networking
 - 👯 I’m looking to collaborate on open-source projects.
@@ -36,8 +40,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My name can be actually found in the Indian epic 'Mahabharata'.
 
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### Connect with me:
 
