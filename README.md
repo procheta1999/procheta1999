@@ -67,11 +67,21 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="procheta1999's Github Stats" src="https://github-readme-stats.vercel.app/api?username=procheta1999&show_icons=true&hide_border=true&theme=radical" />
+<!-- <img align="left" alt="procheta1999's Github Stats" src="https://github-readme-stats.vercel.app/api?username=procheta1999&show_icons=true&hide_border=true&theme=radical" /> -->
 
 <br>
 
+
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=procheta1999&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=procheta1999&theme=tokyonight" />
+</p>
+
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=procheta1999&layout=compact" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=procheta1999&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+
 
 [website]: https://procheta1999.vercel.app/
 [linkedin]: https://www.linkedin.com/in/procheta-bhattacharyya-18890818b/
