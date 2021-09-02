@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there , I am Procheta Bhattacharyya <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 
-
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 
 <br>
@@ -81,6 +81,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=procheta1999&layout=compact" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=procheta1999&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+
+
 
 
 [website]: https://procheta1999.vercel.app/
