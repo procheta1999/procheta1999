@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **procheta1999/procheta1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there , I'm Satish 👋
+### Hi there , I am Procheta Bhattacharyya 👋
 
 <br>
 
-<img align="left" alt="Most Used Languages" src="https://komarev.com/ghpvc/?username=srpsatish&color=dc143c" />
+<img align="left" alt="Most Used Languages" src="https://komarev.com/ghpvc/?username=procheta1999&color=dc143c" />
 
 <br>
 
-## I'm a Front End Developer, Web enthusiast, and I love what I do!!
+## I'm a React.js Developer and also the Director of Service Projects of Rotaract Club of NSEC
 
 <!--
 - 🔭 I’m currently working on ...
@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="srpsatish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srpsatish&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="procheta1999's Github Stats" src="https://github-readme-stats.vercel.app/api?username=procheta1999&show_icons=true&hide_border=true&theme=radical" />
 
 <br>
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpsatish&layout=compact" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=procheta1999&layout=compact" />
 
 [website]: https://srpsatish.me/
 [twitter]: https://twitter.com/srpsatish
