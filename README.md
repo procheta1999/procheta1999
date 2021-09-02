@@ -67,7 +67,5 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=procheta1999&layout=compact" />
 
-[website]: https://srpsatish.me/
-[twitter]: https://twitter.com/srpsatish
-[instagram]: https://www.instagram.com/srpsatish/
-[linkedin]: https://www.linkedin.com/in/srpsatish/
+[website]: https://procheta1999.vercel.app/
+[linkedin]: https://www.linkedin.com/in/procheta-bhattacharyya-18890818b/
