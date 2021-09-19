@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## I'm a React.js Developer and also the Director of Service Projects of Rotaract Club of NSEC. I am also the leader of Cybernix- The Software Wing of Phoenix- The Tech Club of NSEC.
+## I'm a React.js Developer and also the Director of Service Projects of Rotaract Club of NSEC. I am also the lead of Cybernix- The Software Wing of Phoenix- The Tech Club of NSEC.
 
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
