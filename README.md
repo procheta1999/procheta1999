@@ -82,6 +82,8 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=procheta1999&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
+## <img src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/50/000000/external-coffee-home-office-photo3ideastudio-lineal-color-photo3ideastudio.png"/> Buy me a Coffee
+
 [<img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP25hbWU9UHJvY2hldGErQmhhdHRhY2hhcnl5YSZzaXplPTMwMCZiZy1pbWFnZT1ibWMmYmFja2dyb3VuZD01RjdGRkY=&creator=Procheta+Bhattacharyya&is_creating=creating%20websites&design_code=1&design_color=%235F7FFF&slug=prochetabhatt" width="50%" height="50%">](https://www.buymeacoffee.com/prochetabhatt)
 
 
