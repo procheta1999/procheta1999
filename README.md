@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 <br>
 
-## I'm a React.js Developer and also the Director of Service Projects of Rotaract Club of NSEC. I am also the lead of Cybernix- The Software Wing of Phoenix- The Tech Club of NSEC.
+## I'm an Application Developer at ThoughtWorks
 
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 
-- 🔭 I’m currently working on React.js, Python, SQL
-- 🌱 I’m currently learning OS, Networking
+- 🔭 I’m currently working on React.js, SQL, SpringBoot
+- 🌱 I’m currently learning SpringBoot
 - 👯 I’m looking to collaborate on open-source projects.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My name can be actually found in the Indian epic 'Mahabharata'.
