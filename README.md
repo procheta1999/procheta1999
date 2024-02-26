@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 <br>
 
-## I'm an Application Developer at ThoughtWorks
+## I'm a Software Engineer at Cisco and ex-Thoughtworker
 
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 
-- 🔭 I’m currently working on React.js, Python, LLM
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on React.js
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open-source projects.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My name can be actually found in the Indian epic 'Mahabharata'.
@@ -77,5 +77,5 @@ Here are some ideas to get you started:
 <p><a href="https://www.buymeacoffee.com/prochetabhatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prochetabhatt" /></a></p><br><br>
 
 [website]: https://procheta1999.vercel.app/
-[linkedin]: https://www.linkedin.com/in/procheta-bhattacharyya-18890818b/
+[linkedin]: https://www.linkedin.com/in/prochetab/
 [twitter]: https://twitter.com/Procheta1999
